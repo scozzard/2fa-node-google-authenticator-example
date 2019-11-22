@@ -2,7 +2,7 @@
 
 This is a single page Node.js/Typescript/React app demonstrating 2FA with otplib and Google Authenticator.
 
-### To run:
+### To install and run:
 
 * Ensure [Node.js is installed](https://nodejs.org/en/).
 * Clone this repository.
