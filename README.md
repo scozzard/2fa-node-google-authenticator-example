@@ -1,4 +1,4 @@
-# 2-Factor-Authentication with Google Authentication using otplib.
+# 2FA with Google Authenticator using otplib.
 
 This is a single page Node.js/Typescript/React app demonstrating 2FA with [otplib](https://www.npmjs.com/package/otplib) and Google Authenticator.
 
