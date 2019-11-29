@@ -1,12 +1,15 @@
 # 2-Factor-Authentication with Google Authentication using otplib.
 
-This is a single page Node.js/Typescript/React app demonstrating 2FA with otplib and Google Authenticator.
+This is a single page Node.js/Typescript/React app demonstrating 2FA with [otplib](https://www.npmjs.com/package/otplib) and Google Authenticator.
 
-## Install
+## Local Development
 
-This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
+### Requirements
 
-## Usage
+* Node.js (http://nodejs.org)
+* npm (https://npmjs.com)
+
+### Running Locally
 
 * Run `npm install` in the root directory.
 * Run `npm run dev`
