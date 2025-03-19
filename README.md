@@ -17,4 +17,4 @@ This is a single page Node.js/Typescript/React app demonstrating 2FA with [otpli
 
 ### Deployed application
 
-![alt text](screenshot.png)
+![alt text](screenshot_example.png)
