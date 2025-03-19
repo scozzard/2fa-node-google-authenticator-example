@@ -14,3 +14,7 @@ This is a single page Node.js/Typescript/React app demonstrating 2FA with [otpli
 * Run `npm install` in the root directory.
 * Run `npm run dev`
 * Go to http://localhost:3000
+
+### Deployed application
+
+![alt text](screenshot.png)
